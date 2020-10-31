@@ -1,4 +1,5 @@
 # seaneum88.github.io
 Portfolio Angular App
 
-- new test deplo (10/30/2020)
+- new test deploy (10/30/2020)
+- another test deploy (10/30/2020)
